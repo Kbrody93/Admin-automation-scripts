@@ -20,3 +20,4 @@ $outputLines
 $outputLines | Set-Content -Path "winfo.txt" -Force
 
 Invoke-Item "winfo.txt"
+#fin
