@@ -1,3 +1,5 @@
+#GUI thing for learning windows forms. buttons to run powershell for system/net info, cache/history clearing, etc.
+
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 
