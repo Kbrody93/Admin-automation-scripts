@@ -1,4 +1,4 @@
-# Replace username, fullname, password
+# Replace username, fullname, password -
 
 USERNAME="********"  
 FULLNAME="********"
