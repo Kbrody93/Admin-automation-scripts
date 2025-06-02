@@ -1,3 +1,6 @@
+# Script for pushing an admin profile to remote macbooks in Mosyle since Mosyles built in profile isn't free.
+#Replace username, fullname, password
+
 USERNAME="********"  
 FULLNAME="********"
 PASSWORD="********"
